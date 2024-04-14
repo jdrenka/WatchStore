@@ -13,7 +13,11 @@ You cannot actually purchase anything but the database and website is set up as 
   - Shopping cart saved between sessions
   - Admin panel with sales and inventory analysis
   - Search bar functionality
-  - List all orders (For admins) 
+  - List all orders (For admins)
+
+# Walkthrough
+
+(sampleImages/capture.PNG)
 
 # Tech Stack
 
@@ -22,6 +26,7 @@ You cannot actually purchase anything but the database and website is set up as 
   - HTML/CSS
   - SQL
   - Docker
-    
+
+
 
 
