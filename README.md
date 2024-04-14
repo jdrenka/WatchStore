@@ -27,6 +27,10 @@ You cannot actually purchase anything but the database and website is set up as 
 
 ![Description of image](sampleImages/Capture.PNG)
 
+![Description of image](sampleImages/Capture4.PNG)
+
+![Description of image](sampleImages/Capture5.PNG)
+
 # Tech Stack
 
   - Java
