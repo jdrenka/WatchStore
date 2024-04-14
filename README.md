@@ -22,16 +22,29 @@ You cannot actually purchase anything but the database and website is set up as 
 
 ![Description of image](sampleImages/Capture3.PNG)
 
+---
 
 ![Description of image](sampleImages/Capture2.PNG)
 
+---
+
 ![Description of image](sampleImages/Capture.PNG)
+
+---
 
 ![Description of image](sampleImages/Capture4.PNG)
 
+---
+
 ![Description of image](sampleImages/Capture5.PNG)
 
+---
+
 ![Description of image](sampleImages/Capture6.PNG)
+
+---
+
+![Description of image](sampleImages/Capture10.PNG)
 
 
 # Tech Stack
