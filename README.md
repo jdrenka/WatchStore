@@ -17,7 +17,7 @@ You cannot actually purchase anything but the database and website is set up as 
 
 # Walkthrough
 
-![](sampleImages/capture.PNG)
+![Description of image](sampleImages/capture.PNG)
 
 # Tech Stack
 
