@@ -2,4 +2,24 @@
 Created By: Justin Drenka, Kyle Mcleod
 
 ---
-Time Piece vault is dedicated to offering elegant, high-quality watches that enhance personal style and represent excellence in craftsmanship. We aim to be a trusted symbol of sophistication, curating a diverse range of designs and manufacturers to cater to every watch enthusiast.
+# What is WatchStore?
+Time Peice Vault is our dynamic online watch shop that offers a variety of luxury brands and models to choose from. 
+You cannot actually purchase anything but the database and website is set up as if it were a real watch store. 
+
+# What Features? 
+
+  - User authentication
+  - Shopping cart saved between sessions
+  - Admin panel with sales and inventory analysis
+  - Search bar functionality
+
+# Tech Stack
+
+  - Java
+  - JSP Pages
+  - HTML/CSS
+  - SQL
+  - Docker
+    
+
+
